@@ -8,8 +8,7 @@
 ## Installation
 The code needs to install the library yellowbrick aside from the Anaconda distribution for Python.
 ## Project motivation
-This project is a requirement in the Udacity's Data Science Nanodegree. The projec consisti in answer theree business questions from a public dataset.
-Throughout this project we are going to answer three business questions:
+This project is a requirement of the Udacity Data Science Nanodegree. The project consists of answering three business questions from a public data set. Throughout this project we are going to answer three business questions about assesing credit risk:
 * Is there any valuable information in the sociodemographic data?
 * Is there any valuable information in the credit behaviour data?
 * how to make an accurate credit score?
